@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoCraTesAgentTests", "SoCraTesAgentTests\SoCraTesAgentTests.csproj", "{E5152667-CE09-423A-A300-CF102707DB7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoCraTesAgent", "SoCraTesAgent\SoCraTesAgent.csproj", "{517F069D-33DE-441B-80EA-A6F9E34E0BCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib", "Lib\Lib.csproj", "{AD16555E-1DF4-40E2-90F4-9EF34D6432D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5152667-CE09-423A-A300-CF102707DB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5152667-CE09-423A-A300-CF102707DB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5152667-CE09-423A-A300-CF102707DB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5152667-CE09-423A-A300-CF102707DB7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517F069D-33DE-441B-80EA-A6F9E34E0BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517F069D-33DE-441B-80EA-A6F9E34E0BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517F069D-33DE-441B-80EA-A6F9E34E0BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517F069D-33DE-441B-80EA-A6F9E34E0BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD16555E-1DF4-40E2-90F4-9EF34D6432D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD16555E-1DF4-40E2-90F4-9EF34D6432D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD16555E-1DF4-40E2-90F4-9EF34D6432D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD16555E-1DF4-40E2-90F4-9EF34D6432D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

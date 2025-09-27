@@ -1,0 +1,28 @@
+### Hello World
+GET http://localhost:11434/
+
+
+### Start a Chat
+POST http://localhost:11434/api/chat
+Content-Type: application/json
+
+{
+  "model": "gemma3:1b",
+  "stream": false,
+  "messages": [
+    { "role": "user", "content": "hello" }
+  ]
+}
+
+### Chat with a few Messages and System Prompt
+POST http://localhost:11434/api/chat
+Content-Type: application/json
+
+{
+  "model": "gemma3:1b",
+  "stream": false,
+  "messages": [
+    { "role": "system", "content": "You are agent with a bash tool.\n\nTo use the bash tool answer in the following syntax, all in one line: ```bash <code>```\n\nExamples:\n- To call pwd send:\nbash pwd\n- To echo hello world send:\nbash echo hello world\n" },
+    { "role": "user", "content": "echo hello" }
+  ]
+}
