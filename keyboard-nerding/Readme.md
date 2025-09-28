@@ -23,3 +23,8 @@
 [TOTEM by GEIGEIGEIST](https://github.com/GEIGEIGEIST/TOTEM) (OpenSource with all the necessary files) can also be bought from [keeb.supply](keeb.supply)
 
 [My totem configuration with a key map image](https://github.com/aepfli/zmk-config-totem/)
+
+## Training
+
+- keybr.com (slowly increasing number of symbols, till you reach a certain speed)
+- monkeytype.com
