@@ -2,61 +2,75 @@
 
 Session about alternatives for hardware, software, services, and similar things from European sources.
 
+## Overview
+
 ### Preamble
 
 Doing anything "self hosted" is always an alternative.
 This here focuses on the cases I can not / want not to host myself.
 
-## Motivations
+### Motivations
 
 * get away from "big tech"
 * get away from US (foreign) dependency
 * support (more) local providers
 * security / privacy / GDPR
-* Deliberate payment instead of "being the product"
+* deliberate payment instead of "being the product"
 
-## Learnings
+### Learnings
 
-* Not using "big tech", some loss of performance or convencience is expected
+* Not using "big tech", some loss of performance or convenience is expected
 
-## Approach
+### Approach
 
 * Find a main service you use (want to avoid), and start with replacing this. Then iterate.
 * When thinking about a domain, separate "mail provider" from "domain provider". Allows you to mix and match services
 * On smartphones: Have different profiles. One for "public services" (that require standard/common OS) and a "typical service".
 
+#### Used Approaches
+
+1. get a Google free phone
+2. get a Google free email (also separate domain from mailbox)
+3. get a Google free drive
+
+Another approach
+
+1. use European domain provider
+2. use a secure browser and search engine
+3. get rid of Google
 
 ## Things
 
-### email
+### Email
 
-* https://runbox.com/
+* <https://runbox.com/>
 * mailbox.org
 * proton.me
 * uberspace.de
 
 ### AI
 
-* Mistral - https://mistral.ai/
+* Mistral - <https://mistral.ai/>
 * proton.me Lumo AI
+* Apertus (CH)
 
 ### Office
 
-* https://nextcloud.com/office/
-* https://nextcloud.com ONE
+* <https://nextcloud.com/office/>
+* <https://nextcloud.com> ONE
 
 ### PC Hardware
 
 * Linux machines (tablets, laptops, minicomputers)
-  * https://starlabs.systems
-  * https://www.tuxedocomputers.com/
+  * <https://starlabs.systems>
+  * <https://www.tuxedocomputers.com/>
 
 ### Phone Hardware
 
-* https://jolla.com/
-* https://www.fairphone.com/
-* https://www.shift.eco/en
-* https://murena.com/
+* <https://jolla.com/>
+* <https://www.fairphone.com/>
+* <https://www.shift.eco/en>
+* <https://murena.com/>
 
 ### Phone OS
 
@@ -66,6 +80,9 @@ This here focuses on the cases I can not / want not to host myself.
 * lineages OS
 * ubuntu phone
 
+### Phone App Store
+
+* <https://store.auroraoss.com/> not EU but anonymous Google store
 
 ### Gaming Service
 
@@ -74,29 +91,33 @@ This here focuses on the cases I can not / want not to host myself.
 ### Hosting (AWS, GCS, ...)
 
 * Hetzner
-* https://www.ovhcloud.com/
-* https://upsun.com/
-* https://www.qovery.com/
-* https://www.scaleway.com/en/
-* https://scalingo.com/
+* <https://www.ovhcloud.com/>
+* <https://upsun.com/>
+* <https://www.qovery.com/>
+* <https://www.scaleway.com/en/>
+* <https://scalingo.com/>
 
 ### Code hosting
 
-* https://codeberg.org/
+* <https://codeberg.org/>
 
 ### Communication / Social
 
-* https://matrix.org/
-* https://signal.org/ (more about security than being European :) )
-* https://threema.com/en
+* <https://matrix.org/>
+* <https://signal.org/> (more about security than being European :) )
+* <https://threema.com/en>
 * ActivityPub
-  * https://joinmastodon.org/
+  * <https://joinmastodon.org/>
   * ...
 
 ### Browser
 
-* https://mullvad.net/en
-* https://vivaldi.com/
+* <https://mullvad.net/en>
+* <https://vivaldi.com/>
+
+### DNS 4 EU
+
+* <https://www.joindns4.eu/for-public>
 
 ### VPN
 
@@ -109,14 +130,12 @@ This here focuses on the cases I can not / want not to host myself.
 
 ### Notes
 
-* https://standardnotes.com/ (affiliated with Proton)
+* <https://standardnotes.com/> (affiliated with Proton)
 
 ## General Resources
 
 ### Lists
-https://www.goeuropean.org
-https://european-alternatives.eu/
-https://proton.me/blog/european-tech-alternatives
 
-### DNS 4 EU
-https://www.joindns4.eu/for-public
+* <https://www.goeuropean.org>
+* <https://european-alternatives.eu/>
+* <https://proton.me/blog/european-tech-alternatives>
