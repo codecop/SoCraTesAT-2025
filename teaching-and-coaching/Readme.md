@@ -2,6 +2,8 @@
 
 by David Tanzer and Peter Kofler
 
+Thank you for coming to our session.
+
 ## Coaching Tools
 
 ![Flip Chart: Coaching Toolbox](./Coaching_Tools.jpg)
